@@ -10,6 +10,6 @@ Model.py has the CNN model with the architecture - 9 layered (1 normalization la
 
 The trained model .h5 file is fed back to the simulator and is used to drive the car autonomously aorund the track. 
 
-Utils.py contains loading image, resizing it, flipping and adjusting brightness, generating batches to feed into the model
+Utils.py contains functions for loading image, resizing it, flipping and adjusting brightness, generating batches to feed into the model
 
 
